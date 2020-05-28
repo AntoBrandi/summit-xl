@@ -1,0 +1,8 @@
+prefix=/home/legion/summit-xl/devel
+
+Name: robotnik_msgs
+Description: Description of robotnik_msgs
+Version: 1.0.0
+Cflags: -I/home/legion/summit-xl/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs message_runtime std_msgs geometry_msgs
