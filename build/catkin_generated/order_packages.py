@@ -2,4 +2,4 @@
 source_root_dir = '/home/legion/summit-xl/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/legion/summit-xl/devel;/opt/ros/melodic'.split(';') if '/home/legion/summit-xl/devel;/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/legion/arduinobot/devel;/home/legion/summit-xl/devel;/opt/ros/melodic'.split(';') if '/home/legion/arduinobot/devel;/home/legion/summit-xl/devel;/opt/ros/melodic' != '' else []

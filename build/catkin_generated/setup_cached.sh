@@ -7,6 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PKG_CONFIG_PATH="/home/legion/summit-xl/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/legion/summit-xl/build"
-export PYTHONPATH="/home/legion/summit-xl/devel/lib/python2.7/dist-packages:$PYTHONPATH"
